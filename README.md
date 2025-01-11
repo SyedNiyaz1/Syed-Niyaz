@@ -8,14 +8,16 @@ __Text Formatting__:
 *Convert text to UPPERCASE or lowercase.<br>
 *Trim unnecessary spaces.<br>
 *Data Manipulation:<br>
-
 *Add or delete rows and columns.<br>
 *Find and Replace functionality for efficient data management.<br>
+
 __User-Friendly Design:__
 
 *Easily editable cells for quick updates.<br>
 *Intuitive controls to manage your spreadsheet layout.<br>
+
 __Technology Stack__
+
 __HTML__: Structure and layout of the application.<br>
 __CSS__: Styling for a clean and professional look.<br>
 __avaScript__: Core functionality, including dynamic row/column management and text processing.
