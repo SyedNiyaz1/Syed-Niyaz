@@ -1,6 +1,6 @@
 # Web Application Mimicking Google Sheets
 This project is a web-based application designed to replicate the core functionalities of Google Sheets. It provides users with a simple, intuitive interface for creating, editing, and managing spreadsheet data directly in their browser.<br>
-<img src="https://i.ibb.co/mqkjTp9/IMG-20250111-130247.jpg" alt="ass" width="500" height="600">
+![Alt text](https://i.ibb.co/mqkjTp9/IMG-20250111-130247.jpg)
 **Features**<br>
 __Text Formatting__:
 
